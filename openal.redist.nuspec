@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>openal.redist</id>
+    <version>2.0.7.0</version>
+    <title>OpenAL Redist</title>
+    <authors>Creative Labs Inc.</authors>
+    <owners>Gonçalo Lopes</owners>
+    <licenseUrl>http://connect.creativelabs.com/openal/Documentation/The%20OpenAL%20Utility%20Toolkit.htm</licenseUrl>
+    <projectUrl>http://www.openal.org/</projectUrl>
+    <iconUrl>http://benjaminnitschke.com/OpenAL128x128.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <summary>Redistributable components for OpenAL.</summary>
+    <description>OpenAL (Open Audio Library) is a cross-platform audio application programming interface (API). It is designed for efficient rendering of multichannel three dimensional positional audio. Its API style and conventions deliberately resemble those of OpenGL. This package should only be installed as a dependency.</description>
+    <releaseNotes>Binaries and build targets for OpenAL in the x86 and x64 platform architectures.</releaseNotes>
+    <copyright>© Copyright 2009, Creative Labs Inc.</copyright>
+    <tags>OpenAL Audio</tags>
+  </metadata>
+</package>
